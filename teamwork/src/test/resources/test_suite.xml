@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Main Suite">
+  <test verbose="2" name="Framework test">
+    <classes>
+      <class name="com.epam.natalia_amelina.test.AddToWishListTest"/>
+      <class name="com.epam.natalia_amelina.test.FilterOnBrandTest"/>
+      <class name="com.epam.natalia_amelina.test.FilterOnPriceTest"/>
+    </classes>
+  </test> <!-- Framework test -->
+</suite> <!-- Main Suite -->
