@@ -39,7 +39,7 @@
          		<suiteXmlFiles>
            			<suiteXmlFile>testng.xml</suiteXmlFile>
          		</suiteXmlFiles>
-       		</configuration>
+       </configuration>
 		</plugin>
 		<plugin>
         	<groupId>org.codehaus.mojo</groupId>
